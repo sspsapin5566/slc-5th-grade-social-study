@@ -1,0 +1,6 @@
+.gemini/
+.claude/
+*.mp4
+*.mp3
+run_fw.py
+fast_transcribe.py
